@@ -67,7 +67,6 @@ A few things that would be next steps in this analysis are:
 
 dig a bit deeper in terms of outliers
 investigate the spike in number of subway users on Tuesday and Thursday,
-look into the missing records in June,
 try different filter values
 analyze traffic distribution by time of day
 **Need to add Points from other team members**
