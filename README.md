@@ -21,6 +21,7 @@ Our strategy to provide valuable recommendations involved finding the top subway
 **5** Calculated a final "Final Score", summing the four normalized scores for the turnstile, technology, walking, and census data.
 
 
+
 **In summary** we recommended these **top-five subway stations** for placing WTWY volunteers:
 
 **1** Grand Central at 42nd St.
@@ -32,6 +33,7 @@ Our strategy to provide valuable recommendations involved finding the top subway
 **4** Union Square and 14th St.
 
 **5** Penn Station at 34th St.
+
 
 
 This project was done on a pretty tight timeframe, and there was a lot more that we could have done!
