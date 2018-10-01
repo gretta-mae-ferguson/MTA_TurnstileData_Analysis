@@ -10,38 +10,39 @@ We were given a scenario in which a ficticious non-profit company WomenTechWomen
 Our strategy to provide valuable recommendations involved finding the top subway stations with respect to foot traffic, and then verifying that the population in the surrounding areas held demographics that could place them in WTWY's target audience.
 **Our approach was as follows;**
 
-1.We analyzed MTA turnstile data for NYC to calculate the  number of people passing through a subway station in the 3-month period preceding the summer gala. ( Analysis 
+**1** We analyzed MTA turnstile data for NYC to calculate the  number of people passing through a subway station in the 3-month period preceding the summer gala. ( Analysis 
 
-**2**Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals   who may be especially receptive to the WTWY outreach efforts.
+**2** Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals   who may be especially receptive to the WTWY outreach efforts.
 
-**3.**Analyzed data about WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway 5.entrances.
+**3** Analyzed data about WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway entrances.
 
-**4.**Analyzed demographic information from the U.S. Census on local tech-centered companies and residences with greater affluence, as a proxy for a larger impact to the WTWY fundraising and outreach efforts.
+**4** Analyzed demographic information from the U.S. Census on local tech-centered companies and residences with greater affluence, as a proxy for a larger impact to the WTWY fundraising and outreach efforts.
 
-**5.**Calculated a final "Final Score", summing the four normalized scores for the turnstile, technology, walking, and census data.
+**5** Calculated a final "Final Score", summing the four normalized scores for the turnstile, technology, walking, and census data.
 
 **In summary** we recommended these **top-five subway stations** for placing WTWY volunteers:
-**1.**Grand Central at 42nd St.
 
-**2.**World Trade Center at Cortlandt St
+**1** Grand Central at 42nd St.
 
-**3.**34th St at Herald Sq.
+**2** World Trade Center at Cortlandt St
 
-**4.**Union Square and 14th St.
+**3** 34th St at Herald Sq.
 
-**5.**Penn Station at 34th St.
+**4** Union Square and 14th St.
+
+**5** Penn Station at 34th St.
 
 
 This project was done on a pretty tight timeframe, and there was a lot more that we could have done!
 
 A few things that would be **next steps** in this analysis are:
 
-**1.**Analyze the outliers in depth
+**1** Analyze the outliers in depth
 
-**2.**Investigate the spike in number of subway users on certain days of the week.
+**2** Investigate the spike in number of subway users on certain days of the week.
 
-**3.**Try different values to filter outliers.
+**3** Try different values to filter outliers.
 
-**4.**Analyze traffic distribution by time of day
+**4** Analyze traffic distribution by time of day
 
-**5.**Incorporate a better weighting scheme to different factors ( location of tech centers, universities, demographic data) to calculate the final  score card ("Benson Score") for each station.
+**5** Incorporate a better weighting scheme to different factors ( location of tech centers, universities, demographic data) to calculate the final score for each station.
