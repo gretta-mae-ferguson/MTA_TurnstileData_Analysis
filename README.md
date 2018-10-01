@@ -10,13 +10,13 @@ We were given a scenario in which a ficticious non-profit company WomenTechWomen
 Our strategy to provide valuable recommendations involved finding the top subway stations with respect to foot traffic, and then verifying that the population in the surrounding areas held demographics that could place them in WTWY's target audience.
 **Our approach was as follows;**
 
-**1** We analyzed MTA turnstile data for NYC to calculate the  number of people passing through a subway station in the 3-month period preceding the summer gala. ( Analysis 
+**1** We analyzed MTA turnstile data for NYC to calculate the  number of people passing through a subway station in the 3-month period preceding the summer gala. **(Analysis_MTA_Turnstile_2018_data.ipynb)**
 
-**2** Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals   who may be especially receptive to the WTWY outreach efforts.
+**2** Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals   who may be especially receptive to the WTWY outreach efforts.**(Analysis_Techcenters_near_subways.ipynb)**  
 
 **3** Analyzed data about WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway entrances.
 
-**4** Analyzed demographic information from the U.S. Census on local tech-centered companies and residences with greater affluence, as a proxy for a larger impact to the WTWY fundraising and outreach efforts.
+**4** Analyzed demographic information from the U.S. Census on local tech-centered companies and residences with greater affluence, as a proxy for a larger impact to the WTWY fundraising and outreach efforts.**(Analysis_Demographic_Data_code.ipynb)**
 
 **5** Calculated a final "Final Score", summing the four normalized scores for the turnstile, technology, walking, and census data.
 
@@ -36,9 +36,7 @@ Our strategy to provide valuable recommendations involved finding the top subway
 
 
 
-This project was done on a pretty tight timeframe, and there was a lot more that we could have done!
-
-A few things that would be **next steps** in this analysis are:
+This project was done on a pretty tight timeframe, and there was a lot more that we could have done!A few things that would be **next steps** in this analysis are:
 
 **1** Analyze the outliers in depth
 
