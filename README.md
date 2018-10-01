@@ -14,7 +14,7 @@ Our strategy to provide valuable recommendations involved finding the top subway
 
 **2** Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals who may be especially receptive to the WTWY outreach efforts.**(Analysis_Techcenters_near_subways.ipynb)**  
 
-**3** Analyzed data about WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway entrances.
+**3** Analyzed data about WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway entrances.**(Analysis_Walkscore_Data.ipynb)**
 
 **4** Analyzed demographic information from the U.S. Census on local tech-centered companies and residences with greater affluence, as a proxy for a larger impact to the WTWY fundraising and outreach efforts.**(Analysis_Demographic_Data_code.ipynb)**
 
