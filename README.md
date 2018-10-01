@@ -12,7 +12,7 @@ Our strategy to provide valuable recommendations involved finding the top subway
 
 **1** We analyzed MTA turnstile data for NYC to calculate the  number of people passing through a subway station in the 3-month period preceding the summer gala. **(Analysis_MTA_Turnstile_2018_data.ipynb)**
 
-**2** Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals   who may be especially receptive to the WTWY outreach efforts.**(Analysis_Techcenters_near_subways.ipynb)**  
+**2** Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals who may be especially receptive to the WTWY outreach efforts.**(Analysis_Techcenters_near_subways.ipynb)**  
 
 **3** Analyzed data about WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway entrances.
 
