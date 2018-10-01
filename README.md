@@ -7,11 +7,12 @@ We had a pretty tight timeframe for our first project! It was assigned on Monday
 We were given a scenario in which a ficticious non-profit company WomenTechWomenYes (WTWY) had asked us to perform some EDA to explore MTA turnstile data in NYC. WTWY wants to send out volunteer teams out to subway stations to promote their summer gala to increase their brand awareness, participation, and potentially increase donations.They are also interested in collecting email addresses.The main aim of this analysis was to provide recommendations on where to send WTWY's volunteer teams.
 
 ## Our Approach
-Our strategy to provide valuable recommendations involved finding the top subway stations with respect to foot traffic, and then verifying that the population in the surrounding areas held demographics that could place them in WTWY's target audience.Our approach was as follows;
+Our strategy to provide valuable recommendations involved finding the top subway stations with respect to foot traffic, and then verifying that the population in the surrounding areas held demographics that could place them in WTWY's target audience.
+**Our approach was as follows;**
 
-**1.**We analyzed MTA turnstile data for NYC to calculate the  number of people passing through a subway station in the 3-month period preceding the summer gala. ( Analysis 
+1.We analyzed MTA turnstile data for NYC to calculate the  number of people passing through a subway station in the 3-month period preceding the summer gala. ( Analysis 
 
-**2.**Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals   who may be especially receptive to the WTWY outreach efforts.
+**2**Analyzed data on local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals   who may be especially receptive to the WTWY outreach efforts.
 
 **3.**Analyzed data about WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway 5.entrances.
 
